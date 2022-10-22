@@ -1,4 +1,4 @@
 export default {
-  main: "#FFFFFF",
+  main: "#DDDDDD",
   text: "#717171",
 };
